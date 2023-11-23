@@ -18,7 +18,7 @@ This is a simple Supermarket Order Management System implemented using Spring Bo
  
 1. Clone the repository: https://github.com/PaviG128/ORM-Assignment-4.git
  
-git clone https://github.com/PaviG128/ORM-Assignment-4.git
+   git clone https://github.com/PaviG128/ORM-Assignment-4.git
    
 2. Build the project:
  

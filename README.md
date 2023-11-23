@@ -19,7 +19,7 @@ This is a simple Supermarket Order Management System implemented using Spring Bo
 1. Clone the repository:
  
    ```bash
-git clone 
+git clone https://github.com/PaviG128/ORM-Assignment-4.git
    ```
 2. Build the project:
  
